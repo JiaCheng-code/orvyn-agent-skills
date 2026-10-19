@@ -1,4 +1,4 @@
-# Agent Skills Hub — AI Agent 技能资源库
+# Orvyn Agent Skills — 中文 AI Agent 技能资源库
 
 > 收录 1700+ 个 Claude Code / Cursor / Codex 可用的 Agent Skills 仓库、2.5 万+ 个技能，按 42 个分类整理。
 
