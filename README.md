@@ -1,10 +1,11 @@
 # Orvyn Agent Skills — 中文 AI Agent 技能资源库
 
-> 收录 1700+ 个 Claude Code / Cursor / Codex 可用的 Agent Skills 仓库、2.5 万+ 个技能，按 42 个分类整理。
+> 收录 2000+ 个 Claude Code / Cursor / Codex 可用的 Agent Skills 仓库、2.9 万+ 个技能，按 42 个分类整理。
 
 [![Website](https://img.shields.io/badge/Website-www.orvyn.top-blue)](https://www.orvyn.top)
-[![Skill Repos](https://img.shields.io/badge/Skill%20Repos-1700%2B-green)](https://www.orvyn.top/categories)
+[![Skill Repos](https://img.shields.io/badge/Skill%20Repos-2000%2B-green)](https://www.orvyn.top/categories)
 [![Official Orgs](https://img.shields.io/badge/Official%20Orgs-74-orange)](https://www.orvyn.top/orgs)
+[![Prompt Library](https://img.shields.io/badge/Prompt%20Library-prompt.orvyn.top-purple)](https://prompt.orvyn.top)
 
 Agent Skills（智能体技能）是教 AI 编程助手完成专业任务的可复用能力包。一个技能通常包含
 `SKILL.md` 指令文件和配套的脚本、模板、参考资料。安装一次，之后在任何项目里都能让 AI
@@ -33,8 +34,8 @@ npx skills add https://github.com/anthropics/skills
 
 | 指标 | 数量 |
 |------|------|
-| 技能仓库 | 1700+ |
-| 技能总数 | 2.5 万+ |
+| 技能仓库 | 2000+ |
+| 技能总数 | 2.9 万+ |
 | 官方组织 | 74 |
 | 分类 | 42 |
 
@@ -55,6 +56,14 @@ Microsoft、NVIDIA、MongoDB、Redis、Databricks、SAP 等。
 - [Claude Code 必装技能推荐：10 个高星 Agent Skills 清单](https://www.orvyn.top/articles/art-5b553fc19dd2)
 - [AI 编程效率指南：Claude Code / Cursor / Codex 通用的 8 类 Agent Skills](https://www.orvyn.top/articles/art-14ffb7d65531)
 - [Agent Skills 是怎么工作的？拆解 SKILL.md 的加载机制](https://www.orvyn.top/articles/art-f27e6cfff2da)
+- [翻完 2002 个技能仓库，只有 20 个写对了那句话](https://www.orvyn.top/articles/art-4b6a42f56d61)
+
+## 配套站点：提示词库
+
+技能解决「怎么做」，提示词解决「这次做什么」。两个站配套使用：
+
+- **技能库**：[www.orvyn.top](https://www.orvyn.top) — 可复用的能力包，安装后 AI 按流程执行
+- **提示词库**：[prompt.orvyn.top](https://prompt.orvyn.top) — 按场景分类的提示词，支持变量替换和一键复制
 
 ## 提交你的技能
 
@@ -64,6 +73,7 @@ Microsoft、NVIDIA、MongoDB、Redis、Databricks、SAP 等。
 ## 链接
 
 - 官网：https://www.orvyn.top
+- 提示词库：https://prompt.orvyn.top
 - 全部技能：https://www.orvyn.top/categories
 - 官方技能：https://www.orvyn.top/official
 - 官方组织：https://www.orvyn.top/orgs
